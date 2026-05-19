@@ -96,7 +96,6 @@ a {
   height: auto;
   display: block;
 }
-}
 .thumbnail-link span {
   display: block;
   padding: 0.75rem 0.5rem;
@@ -249,6 +248,7 @@ a {
 }
 @media (max-width: 900px) {
   .hero-content,
+  .announcement-media,
   .contact-grid,
   .cards {
     grid-template-columns: 1fr;
